@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>Blog</title>
+    <subtitle></subtitle>
+    <icon>http://example.com/images/favicon.ico</icon>
+    <link href="http://example.com" />
+    <author>
+      <name>rawwap</name>
+    </author>
+    <updated>2023-09-04T14:12:26.000Z</updated>
+    <category term="shoka" />
+    <entry>
+        <id>http://example.com/2023/09/04/%E6%99%BA%E8%83%BD%E8%BD%A6/</id>
+        <title>智能车</title>
+        <link rel="alternate" href="http://example.com/2023/09/04/%E6%99%BA%E8%83%BD%E8%BD%A6/"/>
+        <content type="html">&lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;贯穿我整个大一的智能车生活结束了，是的智能车已经成为 “生活” 了。在这段时间中，很感谢两个队友和管哥的陪伴，以及其他组一起做车的友友，大一做车的这一年很快乐、充实、精彩，很感谢渡龙的赞助，&lt;s&gt;不得不说渡龙真的好有钱&lt;/s&gt;。最终的结果也算是不幸中的万幸，成功表演出了 3.64m/s 的小车、一个国二和 STC 发的惊喜。以下是我对整个智能车一年的总结。&lt;/p&gt;
+&lt;h2 id=&#34;初级训练&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初级训练&#34;&gt;#&lt;/a&gt; 初级训练&lt;/h2&gt;
+&lt;p&gt;智能车的一切是从初级训练开始的，但由于时间线比较长，初级训练的记忆也比较少了。还能记得的是数码管和最后的 4s 小车，当时由于搜索能力可以说一窍不通，检索信息的能力比较弱，搜索的途径也就基本只有 B 站和 edge 了，当时还好多位数码管的代码不是特别复杂，我就模仿网上的代码写了一个点亮的库（当时没搜到那个库，后来才发现有这个东西）。然后就是 4s 小车，了解最多的就是对于车模结构的理解，摩擦、重心、重量、前瞻等等关键点也从一篇篇文章和测试中发掘，同时也简单的认识了 PID，大概在摸索了两三周之后成功将小车的速度提到了 4s。&lt;/p&gt;
+&lt;h2 id=&#34;寒假集训&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#寒假集训&#34;&gt;#&lt;/a&gt; 寒假集训&lt;/h2&gt;
+&lt;p&gt;集训一开始，开始了解各个车模，查找往年的技术报告、用 CoppeliaSim 仿真、抽气和风扇下压方案测试、对于车模上限的简单测试、探索日本 tracerobot 他们比赛的车模。体验 897 的上班生活，8 个人住在一起，一起看世界杯，体验一群小阳人（还记得当时有一段时间大家从早上咳嗽到晚上。挺抽象的哈哈），&lt;/p&gt;
+</content>
+        <updated>2023-09-04T14:12:26.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2023/09/04/markdown/</id>
+        <title>markdown</title>
+        <link rel="alternate" href="http://example.com/2023/09/04/markdown/"/>
+        <content type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;p&gt;你好&lt;/p&gt;
+&lt;h1 id=&#34;标题一&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标题一&#34;&gt;#&lt;/a&gt; 标题一&lt;/h1&gt;
+&lt;h2 id=&#34;你好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#你好&#34;&gt;#&lt;/a&gt; 你好&lt;/h2&gt;
+&lt;h3 id=&#34;你好-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#你好-2&#34;&gt;#&lt;/a&gt; 你好&lt;/h3&gt;
+&lt;h4 id=&#34;你好-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#你好-3&#34;&gt;#&lt;/a&gt; 你好&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;引用&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有序列表：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;1&lt;/li&gt;
+&lt;li&gt;2&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;无序列表：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;爱哦都&lt;/li&gt;
+&lt;li&gt;叫多哈室内
+&lt;ul&gt;
+&lt;li&gt;年后
+&lt;ul&gt;
+&lt;li&gt;你好
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;你好-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#你好-4&#34;&gt;#&lt;/a&gt; 你好&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;明天要做的事情：&lt;/p&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_0&#34;&gt; 吃饭&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_1&#34;&gt; 睡觉&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;代码块：&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;数学公式：&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mfrac&gt;&lt;mrow&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;∂&lt;/mi&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;∂&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;msqrt&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;/msqrt&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\frac{\partial f}{\partial x}=2\sqrt{a}x
+&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:2.0574399999999997em;vertical-align:-0.686em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:1.3714399999999998em;&#34;&gt;&lt;span style=&#34;top:-2.314em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34; style=&#34;margin-right:0.05556em;&#34;&gt;∂&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.677em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34; style=&#34;margin-right:0.05556em;&#34;&gt;∂&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.10764em;&#34;&gt;f&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.686em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.04em;vertical-align:-0.190845em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;mord sqrt&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.8491550000000001em;&#34;&gt;&lt;span class=&#34;svg-align&#34; style=&#34;top:-3em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34; style=&#34;padding-left:0.833em;&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;a&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-2.809155em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;hide-tail&#34; style=&#34;min-width:0.853em;height:1.08em;&#34;&gt;&lt;svg width=&#39;400em&#39; height=&#39;1.08em&#39; viewBox=&#39;0 0 400000 1080&#39; preserveAspectRatio=&#39;xMinYMin slice&#39;&gt;&lt;path d=&#39;M95,702
+c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14
+c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54
+c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10
+s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429
+c69,-144,104.5,-217.7,106.5,-221
+l0 -0
+c5.3,-9.3,12,-14,20,-14
+H400000v40H845.2724
+s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7
+c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z
+M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.190845em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;表格：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;姓名&lt;/th&gt;
+&lt;th&gt;年龄&lt;/th&gt;
+&lt;th&gt;成绩&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;张三&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;脚注：&lt;/p&gt;
+&lt;p&gt;一件三联&lt;sup class=&#34;footnote-ref&#34;&gt;&lt;a href=&#34;#fn1&#34; id=&#34;fnref1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;你好&lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;quot;---&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;baidu.com%22%E4%B8%80%E4%B8%AA%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%22&#34;&gt;百度&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[百度][id]&lt;/p&gt;
+&lt;p&gt;[id]:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5iYWlkdS5jb20=&#34;&gt;http://www.baidu.com&lt;/span&gt;	&amp;quot;&amp;quot;一个搜索引擎&amp;quot;&amp;quot;&lt;/p&gt;
+&lt;p&gt;URL:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5iYWlkdS5jb20=&#34;&gt;http://www.baidu.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;请参考&lt;a href=&#34;#%E6%A0%87%E9%A2%98%E4%B8%80&#34;&gt;标题 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;斜体‘&lt;/em&gt; &lt;strong&gt;加粗&lt;/strong&gt;  &lt;code&gt;printf()&lt;/code&gt; ,&amp;lt;u&amp;gt; 下划线 &amp;lt;/u&amp;gt; ,😄&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;θ&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\theta=x^2
+&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.69444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.02778em;&#34;&gt;θ&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8641079999999999em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.8641079999999999em;&#34;&gt;&lt;span style=&#34;top:-3.113em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;你好&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;2&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;2&lt;sub&gt;2&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;log&lt;sub&gt;2&lt;/sub&gt;4=2&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2JhaWR1LmNvbQ==&#34;&gt;百度&lt;/span&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;学号&lt;/th&gt;
+&lt;th&gt;姓名&lt;/th&gt;
+&lt;th&gt;年龄&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;:--e&lt;/td&gt;
+&lt;td&gt;:---s&lt;/td&gt;
+&lt;td&gt;---:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;td&gt;-----&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;p&gt;~ ~&lt;br /&gt;
+&lt;s&gt; 啥东西&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;html&amp;gt;&lt;/p&gt;
+&lt;p&gt;LATEX 公式&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;L&lt;/mi&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mi&gt;T&lt;/mi&gt;&lt;mi&gt;E&lt;/mi&gt;&lt;mi&gt;X&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;LATEX&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;L&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;A&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;T&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.05764em;&#34;&gt;E&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;X&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr class=&#34;footnotes-sep&#34; /&gt;
+&lt;section class=&#34;footnotes&#34;&gt;
+&lt;ol class=&#34;footnotes-list&#34;&gt;
+&lt;li id=&#34;fn1&#34; class=&#34;footnote-item&#34;&gt;&lt;p&gt;点赞投币 &lt;a href=&#34;#fnref1&#34; class=&#34;footnote-backref&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content>
+        <updated>2023-09-04T14:10:25.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2023/08/29/hello-world/</id>
+        <title>Hello World</title>
+        <link rel="alternate" href="http://example.com/2023/08/29/hello-world/"/>
+        <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
+&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+</content>
+        <updated>2023-08-29T14:35:24.520Z</updated>
+    </entry>
+</feed>
