@@ -1,27 +1,7 @@
 
-<h1 align="center">
-AcadHomepage
-</h1>
 
-<div align="center">
+# Anpeng Wang's Homepage
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
-
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
-
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
-
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
 
 ## Key Features
 - **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
@@ -41,7 +21,7 @@ Some examples:
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage
     1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
+    1. `repository`: USER_NAME/REPO_NAME
     1. `google_analytics_id` (optional): google analytics ID
     1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
     1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
@@ -51,8 +31,8 @@ Some examples:
     1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
         ```html
         <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
+        ```
+        > Q: How to get the google scholar paper ID?
         > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
 1. Your page will be published at `https://USERNAME.github.io`.
 
@@ -67,6 +47,7 @@ Some examples:
 
 # Acknowledges
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+- Anpeng Wang's Homepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
+- Anpeng Wang's Homepage is influenced by the github repo [RayeRen/rayeren.github.io](https://github.com/RayeRen/rayeren.github.io), which is distributed under the MIT License.
+- Anpeng Wang's Homepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
+- Anpeng Wang's Homepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
