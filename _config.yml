@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Anpeng Wang (王安鹏)"
-description              : "Focusing on Zero/Few shot Learning."
+description              : "Focusing on Few-shot Learning."
 repository               : "rawwap/rawwap.github.io"
 google_scholar_stats_use_cdn : true
 

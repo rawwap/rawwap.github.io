@@ -19,7 +19,7 @@ redirect_from:
 
 I am **Anpeng Wang (王安鹏)**, currently an undergraduate student majoring in Robotics Engineering at the School of Control Science and Engineering, Shandong University. Academically, I am fortunate to study under the supervision of Professor [Runmin Cong](https://rmcong.github.io/) and am now affiliated with [Multimedia and Vision Processing Group (MVP Group)](https://rmcong.github.io/MVPLab.html), which is attached to the Key Laboratory of Machine Intelligence and System Control, Ministry of Education.
 
-My core research interests focus on **Zero/Few shot Learning**. Currently, I am conducting relevant exploratory work around these research directions.
+My core research interests focus on **Few-shot Learning**. Currently, I am conducting relevant exploratory work around these research directions.
 
 Regarding my future academic plan, I have decided to continue pursuing a Master's degree at the School of Control Science and Engineering, Shandong University starting from 2026, where I will continue to delve deeply into the aforementioned research fields.
 
