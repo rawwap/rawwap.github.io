@@ -61,7 +61,7 @@ Runmin Cong, **Anpeng Wang**, Bin Wan, Cong Zhang, Xiaofei Zhou, Wei Zhang
 - *2022.09 - 2026.07 (now)*, Undergraduate, School of Control Science and Engineering, Shandong University, Jinan, China. Advisor: [Prof. Runmin Cong](https://rmcong.github.io/)
 
 # 💻 Professional Services
-- *2026*, Reviewer for Association for the Advancement of Artificial Intelligence (AAAI)
+- *2025*, Reviewer for Association for the Advancement of Artificial Intelligence (AAAI 2026)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
