@@ -29,6 +29,7 @@ If you are interested in any form of academic cooperation, please feel free to c
 
 
 # 🔥 News
+- *2026.01*: Attend AAAI 2026 in Singapore and give an oral presentation.
 - *2025.11*: &nbsp;🎉🎉🎉 My first paper is accepted by AAAI 2026 (Oral)!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
@@ -61,7 +62,8 @@ Runmin Cong, **Anpeng Wang**, Bin Wan, Cong Zhang, Xiaofei Zhou, Wei Zhang
 - *2022.09 - 2026.07 (now)*, Undergraduate, School of Control Science and Engineering, Shandong University, Jinan, China. Advisor: [Prof. Runmin Cong](https://rmcong.github.io/)
 
 # 💻 Professional Services
-- *2025*, Reviewer for Association for the Advancement of Artificial Intelligence (AAAI 2026)
+- *2026*, Reviewer for IEEE International Conference on Multimedia and Expo (ICME'26)
+- *2025*, Reviewer for Association for the Advancement of Artificial Intelligence (AAAI'26)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
