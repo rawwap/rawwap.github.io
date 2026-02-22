@@ -49,7 +49,7 @@ Runmin Cong, **Anpeng Wang**, Bin Wan, Cong Zhang, Xiaofei Zhou, Wei Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/CVPR26_ADSeeker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR26_ADSeeker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ADSeeker: A Knowledge-Grounded Reasoning Framework for Industry Anomaly Detection and Reasoning]()
