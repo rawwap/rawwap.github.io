@@ -29,13 +29,14 @@ If you are interested in any form of academic cooperation, please feel free to c
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉🎉 A cooperative paper is accepted by CVPR 2026!
 - *2026.01*: Attend AAAI 2026 in Singapore and give an oral presentation.
 - *2025.11*: &nbsp;🎉🎉🎉 My first paper is accepted by AAAI 2026 (Oral)!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/DCDNet4CDFSS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/AAAI26_DCDNet4CDFSS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Divide-and-Conquer Decoupled Network for Cross-Domain Few-Shot Segmentation](https://arxiv.org/abs/2511.07798)
@@ -45,6 +46,20 @@ Runmin Cong, **Anpeng Wang**, Bin Wan, Cong Zhang, Xiaofei Zhou, Wei Zhang
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 [**Code**](https://github.com/rawwap/DCDNet)
 - This paper focuses on Cross-Domain Few-Shot Segmentation, leveraging feature disentanglement enabled by contrastive-adversarial learning.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/CVPR26_ADSeeker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ADSeeker: A Knowledge-Grounded Reasoning Framework for Industry Anomaly Detection and Reasoning]()
+
+Kai Zhang, Zekai Zhang, Xihe Sun, **Anpeng Wang**, et al.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!--[**Code**](https://github.com/rawwap/DCDNet)-->
+- This paper proposes the ADSeeker framework to improve fine-grained reasoning and zero-shot performance for industrial anomaly detection.
+- We construct the first visual document knowledge base SEEK-M&V and the largest anomaly detection dataset MulA to address data scarcity and insufficient type-level annotations.
 </div>
 </div>
 
