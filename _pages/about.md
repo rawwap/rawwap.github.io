@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -29,9 +29,10 @@ If you are interested in any form of academic cooperation, please feel free to c
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉🎉 A cooperative paper is accepted by CVPR 2026!
+- *2026.03*: &nbsp;🎉🎉🎉 A paper has been accepted by IEEE ICME 2026!
+- *2026.02*: &nbsp;🎉🎉🎉 A cooperative paper has been accepted by CVPR 2026!
 - *2026.01*: Attend AAAI 2026 in Singapore and give an oral presentation.
-- *2025.11*: &nbsp;🎉🎉🎉 My first paper is accepted by AAAI 2026 (Oral)!
+- *2025.11*: &nbsp;🎉🎉🎉 My first paper has been accepted by AAAI 2026 (Oral)!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications
@@ -60,6 +61,19 @@ Kai Zhang, Zekai Zhang, Xihe Sun, **Anpeng Wang**, et al.
 <!--[**Code**](https://github.com/rawwap/DCDNet)-->
 - This paper proposes the ADSeeker framework to improve fine-grained reasoning and zero-shot performance for industrial anomaly detection.
 - We construct the first visual document knowledge base SEEK-M&V and the largest anomaly detection dataset MulA to address data scarcity and insufficient type-level annotations.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/ICME26_P3SAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[P³-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation]()
+
+Qian Xu, Hang Xiong, **Anpeng Wang\***, et al. ( \* corresponding author )
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!--[**Code**](https://github.com/rawwap/DCDNet)-->
+- This paper proposes the P³-SAM model, which optimizes SAM via two core strategies of POE and PPG to address the challenges of few-shot strip steel surface defect segmentation.
 </div>
 </div>
 
