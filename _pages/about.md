@@ -80,6 +80,8 @@ Qian Xu, Hang Xiong, **Anpeng Wang\***, et al. ( \* corresponding author )
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2026.03* Shandong University Outstanding Graduate
+- *2026.01* Shandong University OpenAtom Open Source Pioneer Scholarship
 - *2024.09* Shandong University Outstanding Student Scholarship
 - *2024.07* Shandong University Innovation and Entrepreneurship Scholarship
 - *2023.12* APMCM Asia-Pacific Mathematical Contest in Modeling First Prize
