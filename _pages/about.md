@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Anpeng Wang (王安鹏)**, currently an undergraduate student majoring in Robotics Engineering at the School of Control Science and Engineering, Shandong University. Academically, I am fortunate to study under the supervision of Professor [Runmin Cong](https://rmcong.github.io/) and am now affiliated with [Multimedia and Vision Processing Group (MVP Group)](https://rmcong.github.io/MVPLab.html), which is attached to the Key Laboratory of Machine Intelligence and System Control, Ministry of Education.
+I am **Anpeng Wang (王安鹏)**, currently a Master's student at the School of Control Science and Engineering, Shandong University. I am fortunate to study under the supervision of Professor [Runmin Cong](https://rmcong.github.io/) and am affiliated with the [Multimedia and Vision Processing Group (MVP Group)](https://rmcong.github.io/MVPLab.html), which is attached to the Key Laboratory of Machine Intelligence and System Control, Ministry of Education.
 
-My core research interests focus on **Few-shot Learning**. Currently, I am conducting relevant exploratory work around these research directions.
+I am interested in one of the most basic and distinctive capabilities of human intelligence: the ability to adapt to unfamiliar environments, rapidly and flexibly. Humans can generalize from prior experience, learn rapidly from a few new examples, and use these abilities to acquire surprisingly rich knowledge about the world.
 
-Regarding my future academic plan, I have decided to continue pursuing a Master's degree at the School of Control Science and Engineering, Shandong University starting from 2026, where I will continue to delve deeply into the aforementioned research fields.
+I study how models can develop similar capabilities. How can models generalize out of distribution? How can they effectively reason with available evidence and prior knowledge? When existing knowledge is insufficient, how can they rapidly learn new concepts and capabilities from a few examples? And how should we train models to develop these abilities?
 
-If you are interested in any form of academic cooperation, please feel free to contact me via email: [rawwap@mail.sdu.edu.cn](mailto:rawwap@mail.sdu.edu.cn).
+My current research approaches these questions through vision and multimodal models, with a particular focus on **few-shot learning**, **cross-domain learning**, and **visual reasoning**. I am also broadly interested in in-context learning, continual learning, and knowledge internalization.
+
+If you are interested in my research or would like to explore potential collaborations, please feel free to contact me via email at     [rawwap@mail.sdu.edu.cn](mailto:rawwap@mail.sdu.edu.cn).
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -89,8 +91,8 @@ Qian Xu, Hang Xiong, **Anpeng Wang\***, et al. ( \* corresponding author )
 - *2023.08* National University Students Intellingent Car Race National Second Prize
 
 # 📖 Educations
-- *2026.09 (future)*, Master, School of Control Science and Engineering, Shandong University, Jinan, China. Advisor: [Prof. Runmin Cong](https://rmcong.github.io/)
-- *2022.09 - 2026.07 (now)*, Undergraduate, School of Control Science and Engineering, Shandong University, Jinan, China. Advisor: [Prof. Runmin Cong](https://rmcong.github.io/)
+- *2026.09 - present*, Master, School of Control Science and Engineering, Shandong University, Jinan, China. Advisor: [Prof. Runmin Cong](https://rmcong.github.io/)
+- *2022.09 - 2026.07*, Undergraduate, School of Control Science and Engineering, Shandong University, Jinan, China. Advisor: [Prof. Runmin Cong](https://rmcong.github.io/)
 
 # 💻 Professional Services
 - *2026*, Reviewer for IEEE International Conference on Multimedia and Expo (ICME'26)
